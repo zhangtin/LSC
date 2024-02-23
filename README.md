@@ -1,0 +1,2 @@
+# LSC
+lammps script generator
